@@ -9,5 +9,5 @@ https://cors-anywhere.herokuapp.com/http://apis.data.go.kr/B552584/ArpltnInforIn
 열어서 임시 CORS 허용해야 함.
 
 
-임시 CORS 허용 문제 해결함.
+임시 CORS 허용을 클라이언트 쪽에서 주소 이동 후 허용버튼 클릭하게 하는 문제 해결함.
 허용 요청시 자동 처리하게끔 함.
