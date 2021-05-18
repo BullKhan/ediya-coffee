@@ -1,6 +1,6 @@
 # ediya-coffee
 
-https://bullkhan.github.io/idiya-coffee/
+https://bullkhan.github.io/ediya-coffee/
 
 
 CORS 정책으로 인한 블락 현상을 일시적 해결을 위해
